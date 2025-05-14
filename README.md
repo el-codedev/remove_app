@@ -41,4 +41,4 @@ This script:
 3. Make the script executable:
 
    ```bash
-   chmod +x delete_app_mac.sh
+   chmod +x remove_app.sh
